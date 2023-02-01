@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right, #1618b4 , #ef87b3);
+  }
+  .card{
+    margin:0.5rem;
+    border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+    box-shadow:5px 5px !important;
+  }
